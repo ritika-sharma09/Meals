@@ -1,0 +1,30 @@
+/* OrderIcon.module.css */
+.bag{
+    font: inherit;
+    border: none;
+    background-color: #4d1601;
+    color: white;
+    padding: 0.75rem 3rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 25px;
+    font-weight: bold;
+}
+.icon {
+    font-size: 20px;
+    cursor: pointer;
+    position: fixed;
+    top: 20px;
+    left: 20px;
+    color: white;
+    border: none;
+    background-color: #4d1601;
+    color: white;
+    padding: 0.75rem 0.8rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 100px;
+    font-weight: bold;
+  }
